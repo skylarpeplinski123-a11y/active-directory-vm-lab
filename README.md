@@ -18,3 +18,17 @@ Configure Security Group (allow RDP port 3389)
 Click Launch
 
 Connect to the instance using RDP
+
+🧩 Objective
+Set up and configure Active Directory Domain Services (AD DS) on Windows Server.
+
+🧠 Skills Practiced
+Installing AD DS Role
+Promoting a server to a Domain Controller
+Configuring a new forest and domain
+Managing Organizational Units (OUs)
+
+🧰 Tools Used
+Windows Server 2022
+Active Directory Users and Computers (ADUC)
+Server Manager
